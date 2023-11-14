@@ -11,4 +11,4 @@ Discover a collection of modern and responsive web templates meticulously crafte
 Explore the possibilities and enhance your digital footprint with Achraf Innovations.
 
 ## Project Link
-Visit [Achraf Innovations - Agency Web Template](https://achrafikhlef.github.io/Achraf_Innovations/) (opens in a new tab).
+Visit [Achraf Innovations - Agency Web Template](https://achrafikhlef.github.io/Achraf_Innovations/).
